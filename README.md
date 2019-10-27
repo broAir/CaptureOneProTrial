@@ -1,7 +1,8 @@
-# CaptureOneProTrial
+# Capture One Pro Trial Reset
 Capture One Pro Trial Reset 
 
-This is Trial Reset for Capture One Pro 12. 
+This is Trial Reset for Capture One Pro 12.  /  Обнуление триала для Capture One Pro 12.  **Русский текст внизу**
+
 
 # HOW-TO #
 
